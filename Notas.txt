@@ -1,0 +1,7 @@
+importar react {component}
+
+
+importar task desde json
+
+
+crear una clase inicial , usar render para retornar los elemetos
